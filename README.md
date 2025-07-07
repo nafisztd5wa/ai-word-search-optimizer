@@ -1,6 +1,6 @@
 # AI Word Search Optimizer
 
-An system that implements multiple AI algorithms to efficiently search for target words within a constrained lexical space.
+A system that implements multiple AI algorithms to efficiently search for target words within a constrained lexical space.
 
 ## Technical Approaches
 
